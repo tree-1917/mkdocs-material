@@ -37,3 +37,5 @@ Here are some example emojis and icons:
 - :pencil2: - Pencil
 - :coffee: - Coffee
 - :globe_with_meridians: - Globe
+
+> this is new for this page

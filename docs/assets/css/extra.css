@@ -1,0 +1,8 @@
+/* Example custom styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.custom-header {
+  color: #ff0000;
+}
